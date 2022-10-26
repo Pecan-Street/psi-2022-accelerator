@@ -5,6 +5,9 @@ https://www.mcgovern.org/our-work/data-and-society/accelerator/
 
 https://www.pecanstreet.org/
 
+Scott Hinson shinson@pecanstreet.org, 
+Stephen Mock smock@pecanstreet.org, 
+Jill Harlow jharlow@pecanstreet.org
 
 This is the code and data created for the 2022 PJMF Accelerator by Pecan Street Inc staff.
 
